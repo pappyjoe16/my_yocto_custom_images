@@ -15,4 +15,4 @@ systemd-startup-service-image.wic       This image include systemd, tzdata, reci
 					install two gpio packages (rgpio and gpiozero), thus, make the 
 					packages available to use on target for embedded python.
 
-Link to images:https://drive.google.com/drive/folders/1BZgUYWZbpEEfdXg1feI8CKoZ9SZ_1TNR?usp=drive_link
+Link to images: https://drive.google.com/drive/folders/1BZgUYWZbpEEfdXg1feI8CKoZ9SZ_1TNR?usp=drive_link
